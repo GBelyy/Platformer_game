@@ -1,0 +1,4 @@
+C:/Users/Gleb/Desktop/platformer_game/CMakeFiles/game.dir
+C:/Users/Gleb/Desktop/platformer_game/CMakeFiles/edit_cache.dir
+C:/Users/Gleb/Desktop/platformer_game/CMakeFiles/editor.dir
+C:/Users/Gleb/Desktop/platformer_game/CMakeFiles/rebuild_cache.dir
